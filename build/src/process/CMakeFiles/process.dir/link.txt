@@ -1,3 +1,0 @@
-D:\software\CMake\bin\cmake.exe -E rm -f CMakeFiles\process.dir/objects.a
-D:\software\mingw64\bin\ar.exe qc CMakeFiles\process.dir/objects.a @CMakeFiles\process.dir\objects1.rsp
-D:\software\mingw64\bin\g++.exe -g -shared -o E:\Code\C++\cmake_planning_project_demo\bin\libprocess.dll -Wl,--out-implib,libprocess.dll.a -Wl,--major-image-version,0,--minor-image-version,0 -Wl,--whole-archive CMakeFiles\process.dir/objects.a -Wl,--no-whole-archive @CMakeFiles\process.dir\linkLibs.rsp
